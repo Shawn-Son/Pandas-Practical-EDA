@@ -69,4 +69,4 @@ Pandas-Practical-EDA/
 ## ✍️ Contact
 
 Minhyeok Son  
-[LinkedIn](https://www.linkedin.com/in/sonminhyeok) | [GitHub](https://github.com/sonminhyeok)
+[LinkedIn](https://www.linkedin.com/in/minhyeokson) | [GitHub](https://github.com/Shawn-Son)
