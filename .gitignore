@@ -1,1 +1,4 @@
 Datasets/finance/consumer_complaints.csv
+venv/
+.ipynb_checkpoints/
+__pycache__/
